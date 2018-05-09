@@ -1,7 +1,12 @@
-body {font-family: "Comic Sans MS", cursive, sans-serif;
+
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: left;
 }
+
 footer {
+    position: relative;
+    margin-top: 50%;
+    clear: both;
     text-align: center;
-    position:fixed;
-    bottom:0;
 }
