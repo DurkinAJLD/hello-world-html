@@ -1,0 +1,7 @@
+body {font-family: "Comic Sans MS", cursive, sans-serif;
+}
+footer {
+    text-align: center;
+    position:fixed;
+    bottom:0;
+}
